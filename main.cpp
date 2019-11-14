@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 #include "LZWEncoder/encoder.h"
-#include "support.h"
 #include "decoder.h"
 
 using namespace std;
