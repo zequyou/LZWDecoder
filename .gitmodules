@@ -1,0 +1,3 @@
+[submodule "LZWEncoder"]
+	path = LZWEncoder
+	url = https://github.com/zequyou/LZWEncoder
